@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Prem%20Kumar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20BTech%20CSE&descAlignY=60"/>
+<img src="https://raw.githubusercontent.com/kprem20/kprem20/main/Beige%20Minimalist%20Business%20LinkedIn%20Article%20Cover%20Image.png" width="100%">
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Python+Developer;Building+Creative+Projects+🚀"/>
 </p>
