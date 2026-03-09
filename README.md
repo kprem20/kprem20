@@ -66,25 +66,22 @@ AI system using **YOLO + OpenCV**
 
 # 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
+  
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprem20&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kprem20&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kprem20&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kprem20&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
