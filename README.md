@@ -1,54 +1,65 @@
-<h1 align="center">Hi 👋, I'm Prem Kumar Sharma</h1>
-<h3 align="center">🚀 BTech Student | AI & ML Enthusiast | Python Developer</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=260&section=header&text=Prem%20Kumar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;BTech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Cool+Projects+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Python+Developer;Building+Creative+Projects+🚀"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👨‍💻 About Me
 
-🎓 BTech Computer Science Student  
-🌱 Currently learning **AI, Machine Learning & Web Development**  
-💡 Interested in **Artificial Intelligence, Automation, and Software Development**  
-🚀 Love building **creative and useful projects**  
+🎓 BTech Computer Science Student
+💡 Passionate about **Artificial Intelligence & Development**
+🌱 Currently learning **Machine Learning & Advanced Python**
+🚀 Love building **real-world projects**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🌲 **Forest Escape Game**  
-🎮 Adventure game built using **Python & Tkinter**
+🌲 **Forest Escape Game**
+Adventure puzzle game built using **Python & Tkinter**
 
-🚗 **Vehicle Detection System**  
-AI-based system using **YOLO & OpenCV**
+🚗 **Vehicle Detection System**
+AI system using **YOLO + OpenCV**
 
-🌐 **Portfolio Website**  
-Personal developer portfolio
-
-📚 **IML Lab Programs**  
-Machine Learning lab implementations
+🌐 **Personal Portfolio**
+👉 https://premksharma.vercel.app/
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+<a href="https://www.linkedin.com/in/prem-sharma-840996324/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/itz_._.prem/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/kprem20">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
+📧 Email: **[kpremsharma2005@gmail.com](mailto:kpremsharma2005@gmail.com)**
+
 ---
 
-# 🛠 Languages and Tools
+# 🛠 Languages & Tools
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,vscode,opencv" />
+
 </p>
 
 ---
@@ -56,8 +67,11 @@ Machine Learning lab implementations
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprem20&layout=compact&theme=tokyonight" height="180"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprem20&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -65,15 +79,9 @@ Machine Learning lab implementations
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kprem20&theme=tokyonight"/>
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=kprem20&theme=tokyonight&hide_border=true"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kprem20&theme=onedark"/>
 </p>
 
 ---
@@ -86,23 +94,8 @@ Machine Learning lab implementations
 
 # 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=kprem20&color=blue)
+<img src="https://komarev.com/ghpvc/?username=kprem20&label=Profile%20views&color=0e75b6&style=flat"/>
 
 ---
 
-⭐ From [Prem Kumar Sharma](https://github.com/kprem20)## Hi there 👋
-
-<!--
-**kprem20/kprem20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From **Prem Kumar Sharma**
