@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=260&section=header&text=Prem%20Kumar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Prem%20Kumar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20BTech%20CSE&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -66,14 +66,15 @@ AI system using **YOLO + OpenCV**
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprem20&layout=compact&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
