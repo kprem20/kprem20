@@ -66,7 +66,7 @@ AI system using **YOLO + OpenCV**
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=kprem20&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=kprem20&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
