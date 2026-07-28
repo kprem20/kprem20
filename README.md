@@ -65,7 +65,10 @@ AI system using **YOLO + OpenCV**
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kprem20&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img
+    src="https://streak-stats.demolab.com?user=kprem20&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
