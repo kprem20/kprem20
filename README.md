@@ -72,16 +72,14 @@ AI system using **YOLO + OpenCV**
 </p>
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Contributions
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kprem20&theme=tokyo-night&hide_border=true"
-    alt="Prem's GitHub Contribution Graph"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=kprem20&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
-
 
 ---
 
