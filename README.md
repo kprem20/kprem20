@@ -72,14 +72,21 @@ AI system using **YOLO + OpenCV**
 </p>
 ---
 
-## 📊 Contribution Graph
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/kprem20"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+  <a href="https://github.com/kprem20">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kprem20&theme=github-compact&hide_border=true"
+      alt="Prem Kumar Sharma's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
+
+---
 
 ---
 
