@@ -71,7 +71,6 @@ AI system using **YOLO + OpenCV**
   />
 </p>
 ---
----
 
 ## 📈 Contribution Graph
 
@@ -83,7 +82,6 @@ AI system using **YOLO + OpenCV**
   />
 </p>
 
----
 ---
 
 # 👀 Profile Visitors
