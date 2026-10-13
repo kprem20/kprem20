@@ -36,7 +36,7 @@ AI system using **YOLO + OpenCV**
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/prem-sharma-840996324/](https://www.linkedin.com/in/prem-k-sharma2005/?isSelfProfile=true)">
+<a href="https://www.linkedin.com/in/prem-k-sharma2005/?isSelfProfile=true)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
